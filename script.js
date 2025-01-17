@@ -88,6 +88,9 @@ first()
 //     })
 // })
 
+
+//.......................... async await ..............................
+
 // let first = () => {
 //   return new Promise((resolve, reject) => {
 //     try {
@@ -141,6 +144,10 @@ first()
 
 // asycawait();
 
+
+// await works on async function which returns promise otherwise it will not work as expected
+
+
 // async  function temp(){
 
 //    let res =  await fetch('./index.html')
@@ -158,3 +165,6 @@ first()
 // }
 
 // temp()
+
+
+
