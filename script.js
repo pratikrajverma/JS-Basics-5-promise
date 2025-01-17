@@ -4,6 +4,8 @@
 
 // console.log('hiii')
 
+//................ promise for async code .......................
+
 let first = () => {
   return new Promise((resolve, reject) => {
     try {
